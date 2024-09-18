@@ -23,16 +23,21 @@ Using the dataframe cars in problem 1, extract the following information using s
 * Anaconda Navigator
 * Jupyter Notebook
 * Optional : Microsoft Excel
-* Any updated form of Windows/Mac/Linux that can run the programs above
+* Any updated version of Windows, Mac, or Linux that is capable of running the programs above.
 
 ### Executing program
 
 * How to run the program
-* In every cell you must press Shift + Enter to run the specific cell
+* In order to run each cell, please remember to press Shift + Enter.
 ```
-import numpy as np
+import pandas as pd
 ```
-* It is important to run "import numpy as np" as the whole python script wont run as it is dependent on that specific code
+* It is crucial to include "import pandas as pd" as the entire Python script relies on this specific code.
+```
+# Read cars data from CSV file into dataframe
+cars=pd.read_csv("cars.csv")
+```
+* The code block above is also important as this loads the .csv file. Without it, the entire script won't run.
 
 ## Author
 
