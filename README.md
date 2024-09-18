@@ -22,19 +22,19 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
 
 * Anaconda Navigator
 * Jupyter Notebook
-* __**[cars.csv](http://bit.ly/Cars_file)**__
-* __Optional: Microsoft Excel__
+* _**[cars.csv](http://bit.ly/Cars_file)**_
+* _Optional: Microsoft Excel_
 * Any updated version of Windows, Mac, or Linux that is capable of running the programs above.
 
 ### Executing program
 
 * How to run the program
-* Make sure to have downloaded the __**[cars.csv](#Dependencies)**__
+* Make sure to have downloaded the _**[cars.csv](#Dependencies)**_
 * In order to run each cell, please remember to press **Shift + Enter.**
 ```
 import pandas as pd
 ```
-* It is __crucial__ to include "import pandas as pd" as the entire Python script relies on this specific code.
+* It is _crucial_ to include "import pandas as pd" as the entire Python script relies on this specific code.
 ```
 # Read cars data from CSV file into dataframe
 cars=pd.read_csv("cars.csv")
