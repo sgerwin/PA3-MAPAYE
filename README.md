@@ -29,7 +29,7 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
 ### Executing program
 
 * How to run the program
-* Make sure to have downloaded the _**[cars.csv](#Dependencies)**_
+* Make sure to have downloaded the _**[cars.csv](http://bit.ly/Cars_file)**_
 * In order to run each cell, please remember to press **Shift + Enter.**
 ```
 import pandas as pd
