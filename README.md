@@ -9,7 +9,7 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
      - b) Display the first five and last five rows of the resulting cars.
 
 2. **PROBLEM 2:** Save your file as Surname_Pandas-P2.py
-   - a) Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7…) of cars.
+- a) Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7…) of cars.
     - b) Display the row that contains the ‘Model’ of ‘Mazda RX4’.
     - c) How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
     - d) Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
