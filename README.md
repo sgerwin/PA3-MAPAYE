@@ -30,11 +30,11 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
 
 * How to run the program
 * Make sure to have downloaded the _**[cars.csv](http://bit.ly/Cars_file)**_
-* In order to run each cell, please remember to press **Shift + Enter.**
+* In order to run each cell, please remember to press **_Shift + Enter_**
 ```
 import pandas as pd
 ```
-* It is _crucial_ to include "import pandas as pd" as the entire Python script relies on this specific code.
+* It is **_crucial_** to include "import pandas as pd" as the entire Python script relies on this specific code.
 ```
 # Read cars data from CSV file into dataframe
 cars=pd.read_csv("cars.csv")
