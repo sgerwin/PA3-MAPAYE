@@ -4,13 +4,13 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
 
 ## Description/Given Problems
 
-**PROBLEM 1:** Save your file as Surname_Pandas-P1.py
+### **PROBLEM 1:** Save your file as Surname_Pandas-P1.py
 
-### Using knowledge obtained from the experiment and demonstrations:
+ Using knowledge obtained from the experiment and demonstrations:
    - a) Load the corresponding .csv file into a data frame named cars using pandas
    - b) Display the first five and last five rows of the resulting cars.
 
-**PROBLEM 2:** Save your file as Surname_Pandas-P2.py
+### **PROBLEM 2:** Save your file as Surname_Pandas-P2.py
 
 Using the dataframe cars in problem 1, extract the following information using subsetting, slicing and indexing operations
    - a) Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7…) of cars.
