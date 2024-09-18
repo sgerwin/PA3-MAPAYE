@@ -23,13 +23,13 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
 * Anaconda Navigator
 * Jupyter Notebook
 * __**[cars.csv](http://bit.ly/Cars_file)**__
-* Optional: Microsoft Excel
+* __Optional: Microsoft Excel__
 * Any updated version of Windows, Mac, or Linux that is capable of running the programs above.
 
 ### Executing program
 
 * How to run the program
-* Make sure to have downloaded the [cars.csv](#Dependencies)
+* Make sure to have downloaded the __**[cars.csv](#Dependencies)**__
 * In order to run each cell, please remember to press **Shift + Enter.**
 ```
 import pandas as pd
