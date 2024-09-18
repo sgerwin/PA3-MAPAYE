@@ -9,7 +9,7 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
      - a) Load the corresponding .csv file into a data frame named cars using pandas
      - b) Display the first five and last five rows of the resulting cars.
 
-2. **PROBLEM 2:** Save your file as Surname_Pandas-P2.py
+**2.** **PROBLEM 2:** Save your file as Surname_Pandas-P2.py
 - Using the dataframe cars in problem 1, extract the following information using subsetting, slicing and indexing operations.
      - a) Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7…) of cars.
      - b) Display the row that contains the ‘Model’ of ‘Mazda RX4’.
@@ -22,12 +22,14 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
 
 * Anaconda Navigator
 * Jupyter Notebook
-* Optional : Microsoft Excel
+* __**[cars.csv]**__ (http://bit.ly/Cars_file)
+* Optional: Microsoft Excel
 * Any updated version of Windows, Mac, or Linux that is capable of running the programs above.
 
 ### Executing program
 
 * How to run the program
+* Make sure to have downloaded the __**[cars.csv]**__ (# Dependencies)
 * In order to run each cell, please remember to press **Shift + Enter.**
 ```
 import pandas as pd
