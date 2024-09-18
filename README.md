@@ -8,6 +8,7 @@ PROBLEM 1: Save your file as Surname_Pandas-P1.py
 Using knowledge obtained from the experiment and demonstrations:
    - Load the corresponding .csv file into a data frame named cars using pandas
    - Display the first five and last five rows of the resulting cars.
+
 PROBLEM 2: Save your file as Surname_Pandas-P2.py
 Using the dataframe cars in problem 1, extract the following information using subsetting, slicing and indexing operations
    - Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7…) of cars.
