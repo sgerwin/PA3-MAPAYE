@@ -2,7 +2,17 @@
 
 To create a Python script/code in the Jupyter Notebook to do the given problems.
 
-## Description/Given Problems
+## :ledger: Index
+
+- [Description/Given Problems](#beginner-descriptiongiven-problems)
+- [Getting Started](#green_circle-getting-started)
+   - [Dependencies](#electric_plug-dependencies)
+   - [Executing Program](#wrench-executing-prorgram)
+- [Author](#writing_hand-author)
+  - [Acknowledgements](#star2-acknowledgements)
+- [Version History](#scroll-version-history)
+
+## :beginner: Description/Given Problems
 
 **1.** **PROBLEM 1:** Save your file as Surname_Pandas-P1.py
 - Using knowledge obtained from the experiment and demonstrations:
@@ -16,9 +26,9 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
      - c) How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
      - d) Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
 
-## Getting Started
+## :green_circle: Getting Started
 
-### Dependencies
+### :electric_plug: Dependencies
 
 * Anaconda Navigator
 * Jupyter Notebook
@@ -26,7 +36,7 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
 * _Optional: Microsoft Excel_
 * Any updated version of Windows, Mac, or Linux that is capable of running the programs above.
 
-### Executing program
+### :wrench: Executing Program
 
 * How to run the program
 * Make sure to have downloaded the _**[cars.csv](http://bit.ly/Cars_file)**_
@@ -41,10 +51,14 @@ cars=pd.read_csv("cars.csv")
 ```
 * The code block above is also important as this loads the .csv file. Without it, the entire script won't run.
 
-## Author
+## :writing_hand: Author
+* Sherwin Miguel C. Mapaye
 
-Sherwin Miguel C. Mapaye
+### :star2: Acknowledgements
+* [Engr. Ma. Madecheen S. Pangaliman, MSc](https://www.ust.edu.ph/profile/pangaliman-ma-madecheen-s)<br>
+* Engr. Nico John Leo S. Lobos
 
-## Version History
+## :scroll: Version History
 * 0.1
-    * Initial Release
+   * Initial Release
+
