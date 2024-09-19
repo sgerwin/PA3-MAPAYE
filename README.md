@@ -14,7 +14,7 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
 
 ## :beginner: Description/Given Problems
 
-**1.** **PROBLEM 1:** Save your file as Surname_Pandas-P1.py<br>
+**1.** **PROBLEM 1:** Save your file as Surname_Pandas-P1.py<br><br>
 Using knowledge obtained from the experiment and demonstrations:
      - a) Load the corresponding .csv file into a data frame named cars using pandas
      - b) Display the first five and last five rows of the resulting cars.
