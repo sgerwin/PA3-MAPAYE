@@ -68,8 +68,8 @@ cars
 ![Alt text](tables.png)
 
 </div>
-<br>
-* *Note that the table will continue until 31 Volve142E*
+
+* _Note that the table will continue until 31 Volve142E_
 
 ## :writing_hand: Author
 * Sherwin Miguel C. Mapaye
