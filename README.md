@@ -57,6 +57,14 @@ import pandas as pd
 cars=pd.read_csv("cars.csv")
 ```
 * The code block above is also important as this loads the .csv file. Without it, the entire script won't run.
+```
+# Output of datagframe
+cars
+```
+* You will know that the output is right when the following table appears
+![Alt text](table1.png)
+* The table will continue until 31
+![Alt text](table2.png)
 
 ## :writing_hand: Author
 * Sherwin Miguel C. Mapaye
