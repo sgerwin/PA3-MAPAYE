@@ -62,8 +62,9 @@ cars=pd.read_csv("cars.csv")
 cars
 ```
 * You will know that the output is right when the following table appears
+<br>
 ![Alt text](table1.png)
-![Alt text](table2.png)
+![Alt text](tables.png)
 
 ## :writing_hand: Author
 * Sherwin Miguel C. Mapaye
