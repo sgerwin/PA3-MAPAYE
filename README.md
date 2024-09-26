@@ -62,7 +62,6 @@ cars=pd.read_csv("cars.csv")
 cars
 ```
 * You will know that the output is right when the following table appears
-* *Note that the table will continue until 31 Volve142E*
 ![Alt text](table1.png)
 ![Alt text](table2.png)
 
