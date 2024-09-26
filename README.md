@@ -62,9 +62,12 @@ cars=pd.read_csv("cars.csv")
 cars
 ```
 * You will know that the output is right when the following table appears
-
+<div align="center">
 ![Alt text](table1.png)
 ![Alt text](tables.png)
+</div>
+<br>
+* *Note that the table will continue until 31 Volve142E*
 
 ## :writing_hand: Author
 * Sherwin Miguel C. Mapaye
