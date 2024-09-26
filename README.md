@@ -63,9 +63,8 @@ cars
 ```
 * You will know that the output is right when the following table appears
 ![Alt text](table1.png)
-...
 ![Alt text](table2.png)
-* The table will continue until 31 Volvo21E
+* The table will continue until 31 Volvo142E
 ## :writing_hand: Author
 * Sherwin Miguel C. Mapaye
 
