@@ -1,6 +1,11 @@
 # PA 3 - Python Data Analysis (PANDAS)
 
-To create a Python script/code in the Jupyter Notebook to do the given problems.
+## :bulb: Intended Learning Outcomes
+- To identify the codes and functions incorporated in the Pandas library<br>
+- To be able to apply and use the different codes and functions in creating a Python program using a Pandas library
+
+### :hammer: Instructions
+- To create a Python script/code in the Jupyter Notebook to do the given problems
 
 ## :ledger: Index
 
@@ -33,7 +38,7 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
 ### :electric_plug: Dependencies
 
 * Anaconda Navigator
-* Jupyter Notebook
+* Jupyter Notebook / Visual Studio Code
 * _**[cars.csv](http://bit.ly/Cars_file)**_
 * _Optional: Microsoft Excel_
 * Any updated version of Windows, Mac, or Linux that is capable of running the programs above.
